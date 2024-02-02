@@ -1,0 +1,37 @@
+
+.body
+{
+    background-color:pink;
+}
+
+.about
+{
+    background-color: tomato;
+    text-align: center;
+    border: solid black 2px;
+}
+
+.box
+{
+    
+    border: 2px solid black;
+    border-radius: 15%;
+    display:inline-block;
+   
+   
+}
+
+.image
+{
+    border: 2px solid black;
+    border-radius: 15%;
+
+    height:300px ;
+    width:300px;
+}
+
+.price
+{
+    text-align: center;
+}
+
