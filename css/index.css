@@ -1,0 +1,21 @@
+.body
+{
+    background-color: pink;
+}
+.header
+{
+    background-color: tomato;
+    text-align: center;
+    border: solid black 2px;
+}
+.quotes
+{
+    text-align: center;
+}
+.img
+{
+    border: solid black 4px;
+    border-radius: 10% ;
+    height:600px;
+     width:1200px;
+}
