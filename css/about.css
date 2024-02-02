@@ -18,14 +18,14 @@
     border-radius: 15%;
     display:inline-block;
     background-color: aqua;
+    margin: 20px;
    
 }
 
 .image
 {
     border: 2px solid black;
-    border-radius: 15%;
-   
+    border-radius:50px 50px 0 0;
     height:400px ;
     width:400px;
 }
