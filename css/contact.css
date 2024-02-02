@@ -1,0 +1,15 @@
+.body
+{
+ background-color: pink;
+}
+.icon
+{
+    height: 200px;
+    width: 200px;
+}
+.head
+{
+    background-color: aqua;
+    border: 2px solid black;
+    text-align: center;
+}
