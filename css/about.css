@@ -3,23 +3,19 @@
 {
     background-color:pink;
 }
-
 .about
 {
     background-color: tomato;
     text-align: center;
     border: solid black 2px;
 }
-
 .box
-{
-    
+{ 
     border: 2px solid black;
     border-radius: 15%;
     display:inline-block;
     background-color: aqua;
     margin: 20px;
-   
 }
 
 .image
